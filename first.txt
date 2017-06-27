@@ -5,3 +5,5 @@ third line
 in local directory.
 
 THESE ARE THE CHANGES iN BRANCH REL_NEXT
+
+Second change from the same person in local directory 
