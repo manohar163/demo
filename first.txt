@@ -1,4 +1,7 @@
 first line of the file
 second line of the file
 third line
+
 in local directory.
+
+THESE ARE THE CHANGES iN BRANCH REL_NEXT
