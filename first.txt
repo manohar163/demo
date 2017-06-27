@@ -2,7 +2,11 @@ first line of the file
 second line of the file
 third line
 this has to be fourth line int his file......
-
 in local directory.
 THESE ARE THE CHANGES iN BRANCH REL_NEXT
 Second change from the same person in local directory 
+in local directory.
+THESE ARE THE CHANGES iN BRANCH REL_NEXT
+Second change from the same person in local directory 
+
+Done changes in  master
